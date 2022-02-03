@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Anik Sarker</h1>
 <h3 align="center">A passionate Software Engineer.</h3>
 
-- 🔭 I’m currently working on **diffrent e-commerce projects on building scalable microservices**
+- 🔭 I’m currently working on **different e-commerce projects on building scalable microservices**
 
-- 🌱 I’m currently learning **Microservice Architecure, .NET 6, PostgreSQL , Redis, Azure DevOps, Kubernetes.**
+- 🌱 I’m currently learning **Microservice Architecture, .NET 6, PostgreSQL, Redis, Azure DevOps, Kubernetes.**
 
-- 👯 I’m looking to collaborate on **diffrent Software projects related to System Design**
+- 👯 I’m looking to collaborate on **different Software projects related to System Design**
 
 - 🤝 I’m looking for help with **becoming a Software Architect**
 
 - 👨‍💻 All of my projects are available at [this github profile](this github profile)
 
-- 💬 Ask me about **c# and any Software Architectural related questiones.**
+- 💬 Ask me about **c# and any Software Architectural related questions.**
 
 - 📫 How to reach me **ach6266@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JVLY7Nypg1YVU-R3aZVUe7TrkUn-inJV/view?usp=sharing](https://drive.google.com/file/d/1JVLY7Nypg1YVU-R3aZVUe7TrkUn-inJV/view?usp=sharing)
 
-- ⚡ Fun fact **I very much collaborative, fun and active for learning.**
+- ⚡ Fun fact **I very much collaborative, fun, and active for learning.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
