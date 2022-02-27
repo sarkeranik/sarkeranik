@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anik Sarker</h1>
 <h3 align="center">A passionate Software Engineer.</h3>
 
-- 🔭 I’m currently working on **different e-commerce projects on building scalable microservices**
+- 🔭 I’m currently working on **different e-commerce projects on building scalable microservice solutions**
 
 - 🌱 I’m currently learning **Microservice Architecture, .NET 6, PostgreSQL, Redis, Azure DevOps, Kubernetes.**
 
