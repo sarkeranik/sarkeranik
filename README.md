@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ach6266@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1JVLY7Nypg1YVU-R3aZVUe7TrkUn-inJV/view?usp=sharing" title="Resume Link">Resume Link</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1v6Af0OundBo_o86-RqPSiuo_a_rZ9hQY/view?usp=sharing" title="Resume Link">Resume Link</a>
 
 - ⚡ Fun fact **I very much collaborative, fun, and active for learning.**
 
