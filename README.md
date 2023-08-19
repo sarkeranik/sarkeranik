@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anik Sarker</h1>
 <h3 align="center">A passionate Software Engineer.</h3>
 
-- 🔭 I’m currently working on **different e-commerce projects on building scalable microservice solutions**
+- 🔭 I’m currently working on Full Stack Developer. Building next-gen Cloud platform to replace the DevOps guys ;).
 
-- 🌱 I’m currently learning **Microservice Architecture, .NET 6, PostgreSQL, Redis, Azure DevOps, Kubernetes.**
+- 🌱 I’m Working Tech Stack **Microservice Architecture, .NET Core 3.1, 5, 6, 7, Angular 10+, PostgreSQL, Redis, Azure DevOps, Kubernetes etc.**
 
 - 👯 I’m looking to collaborate on **different Software projects related to System Design**
 
@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [this github profile](this github profile)
 
-- 💬 Ask me about **c# and any Software Architectural related questions.**
+- 💬 Ask me about **c#, Typescript and any Software Architectural related questions.**
 
 - 📫 How to reach me **ach6266@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1v6Af0OundBo_o86-RqPSiuo_a_rZ9hQY/view?usp=sharing" title="Resume Link">Resume Link</a>
+- 📄 Want to Know about my experiences <a href="mailto:ach6266@gmail.com">Contact Me</a>
 
-- ⚡ Fun fact **I very much collaborative, fun, and active for learning.**
+- ⚡ Fun fact **I am very much collaborative, fun, and active in learning.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
