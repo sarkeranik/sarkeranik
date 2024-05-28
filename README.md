@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anik Sarker</h1>
 <h3 align="center">A passionate Software Engineer.</h3>
 
-- 🔭 I’m currently working on Full Stack Developer. Building next-gen Cloud platform to replace the DevOps guys ;).
+- 🔭 I’m currently working as a Full Stack Developer. Building next-gen Cloud platform to replace the DevOps guys ;).
 
 - 🌱 I’m Working Tech Stack **Microservice Architecture, .NET Core 3.1, 5, 6, 7, Angular 10+, PostgreSQL, Redis, Azure DevOps, Kubernetes etc.**
 
