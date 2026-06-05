@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>Senior Software Engineer · .NET 8 · Angular · Microservices · DDD · CQRS · Clean Architecture</b><br/>
+  <b>Senior Software Engineer · .NET · Angular · Microservices · DDD · CQRS · Clean Architecture</b><br/>
   <sub>6+ years building scalable, secure cloud-native platforms · Currently @ BMW Group Malaysia 🚗</sub>
 </p>
 
@@ -31,15 +31,6 @@
 ```
 
 > *"I build architectures that are resilient by design — grounded in DDD, CQRS, and Clean Architecture principles. Not just code, but ownership end-to-end: from system design to production."*
-
----
-
-## 📊 GitHub Stats & Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarkeranik&show_icons=true&theme=transparent&title_color=6366F1&text_color=a3a3a3&icon_color=6366F1&hide_border=true" alt="Anik's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarkeranik&layout=compact&theme=transparent&title_color=6366F1&text_color=a3a3a3&icon_color=6366F1&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
@@ -366,6 +357,70 @@ graph TB
 
 ---
 
+### 🛒 High-Traffic E-Commerce Platforms · Associate Software Engineer @ Brain Station 23
+**Nov 2021 – Jul 2022 · Dhaka, Bangladesh**
+
+Engineered highly scalable enterprise e-commerce platforms for **Apex Footwear**, **Shwapno (ACI Logistics)**, and **Sailor Clothing** — top national retail brands. The platforms handle massive traffic surges during national sales events (up to **10,000+ concurrent users**) and reliably serve **100,000+ weekly visitors**.
+
+**Key achievements:**
+- Architected the core e-commerce engine using **.NET Core** and **nopCommerce**, extending the open-source framework with custom plugins and themes tailored to brand-specific workflows.
+- Handled massive promotional traffic spikes (**10K+ concurrent users**) by implementing **AWS Auto Scaling** (EC2, RDS) and **Redis caching** (session & product catalog), improving response times by **40%**.
+- Integrated third-party ecosystems including **Facebook Shop API** for social commerce and **Knawat API** for dropshipping product catalogs.
+- Achieved a **98% score** on the official nopCommerce Certified Developer exam.
+- Deployed via **Azure DevOps CI/CD** pipelines with zero-downtime rolling updates.
+
+```mermaid
+graph TB
+    subgraph CustomerChannels["Customer Channels"]
+        A[Web Browser]
+        B[Mobile Web]
+        C[Facebook Shop]
+    end
+
+    subgraph Frontend["Frontend Layer"]
+        D[Angular SPA]
+        E["Razor Views (nopCommerce)"]
+        F[Custom Brand Themes]
+        D & E --> F
+    end
+
+    subgraph Backend["Backend — .NET Core"]
+        G[nopCommerce Core Engine]
+        H[Custom Plugins · Promos · Dropshipping]
+        I[RESTful APIs]
+        G --> H --> I
+    end
+
+    subgraph External["Third-Party APIs"]
+        J[Knawat API]
+        K[Facebook API]
+        L[Payment Gateways]
+    end
+
+    subgraph Data["Data & Cache Layer"]
+        M[Redis Cache · Sessions & Products]
+        N[(SQL Server)]
+    end
+
+    subgraph Cloud["AWS Infrastructure"]
+        O[EC2 Auto Scaling Groups]
+        P[AWS S3 Media Storage]
+        Q[AWS RDS]
+        O --> P & Q
+    end
+
+    CustomerChannels --> Frontend --> Backend
+    Backend --> External
+    Backend --> M & N
+    Backend --> Cloud
+    R[Azure DevOps CI/CD] --> Cloud
+```
+
+**Stack:** `.NET Core` `nopCommerce` `Angular` `C#` `SQL Server` `Redis` `AWS EC2` `AWS RDS` `AWS S3` `Azure DevOps` `Knawat API` `Facebook API`
+
+---
+
+
 ### 🏦 Banking & FinTech eKYC Platforms · @ LEADS Corporation
 **Jan 2020 – Oct 2021 · Dhaka, Bangladesh**
 
@@ -419,25 +474,6 @@ graph TB
 
 ---
 
-### 🛒 E-Commerce Platforms · @ Brain Station 23
-**Nov 2021 – Jul 2022 · Bangladesh**
-
-Shipped production e-commerce platforms for **Apex Footwear**, **Shwapno (ACI Logistics)**, and **Sailor Clothing** using nopCommerce — collectively serving hundreds of thousands of monthly active users.
-
-| Platform | Client | Key Achievement |
-|----------|--------|-----------------|
-| **Apex** | Apex Footwear Ltd. | 100K+ weekly visitors · Facebook API integration |
-| **Shwapno** | ACI Logistics | AWS Auto Scaling · Redis caching · high availability |
-| **Sailor** | Sailor Clothing | Knawat API integration · multi-vendor catalog |
-
-**Key achievements:**
-- Contributed to the **nopCommerce open-source framework** — custom Plugins and Themes
-- **98% score** on nopCommerce Certified Developer exam
-- Improved performance **40%** through Redis caching and AWS auto-scaling (EC2, RDS, S3)
-
-**Stack:** `.NET Core` `nopCommerce` `Angular` `SQL Server` `Redis` `Docker` `AWS` `Azure CI/CD`
-
----
 
 ## 🎓 Academic Research Projects
 
