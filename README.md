@@ -34,6 +34,15 @@
 
 ---
 
+## 📊 GitHub Stats & Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarkeranik&show_icons=true&theme=transparent&title_color=6366F1&text_color=a3a3a3&icon_color=6366F1&hide_border=true" alt="Anik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarkeranik&layout=compact&theme=transparent&title_color=6366F1&text_color=a3a3a3&icon_color=6366F1&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
 ## ⚡ Impact Highlights
 
 | Metric | Project |
@@ -572,12 +581,12 @@ mindmap
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarkeranik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="Anik's GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sarkeranik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="Anik's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarkeranik&theme=tokyonight&hide_border=true" width="48%" alt="Anik's Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarkeranik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sarkeranik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
 </p>
 
 ---
