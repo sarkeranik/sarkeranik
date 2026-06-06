@@ -27,7 +27,7 @@
 🎓  Education    BSc Computer Science — AIUB (GPA 3.58 / 4.0)
 🏆  Recognition  "A Significant Contributor" — LEADS Corporation (2021)
 📜  Certified    nopCommerce Certified Developer — 98% score (Feb 2022)
-🗣️  Languages    English (Fluent) · Bengali (Native)
+🗣️  Languages    English (Fluent) · Bengali (Native) · Hindi (Intermediate) 
 ```
 
 > *"I build architectures that are resilient by design — grounded in DDD, CQRS, and Clean Architecture principles. Not just code, but ownership end-to-end: from system design to production."*
