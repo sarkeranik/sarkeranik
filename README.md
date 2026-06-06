@@ -522,11 +522,10 @@ Research focused on **human pose estimation** — combining segmentation algorit
 
 | # | Project | Role | Period | Live | Key Result |
 |---|---------|------|--------|------|-----------|
-| 6 | [🔐 **VerifID — Digital eKYC**](./projects/verifid-ekyc.md) | Technical Lead | 2024–2025 | [![🔗](https://img.shields.io/badge/🔗-Live-10B981?style=flat-square)](https://sweya.ai/verifid) | Multi-tenant SaaS · 3 banks · Days → **5 minutes** |
-| 7 | [🏦 **Dhaka Bank EZYBANK**](./projects/dhaka-bank-ezybank.md) | Assoc. SE | Jan 2020–Oct 2021 | [![🔗](https://img.shields.io/badge/🔗-Live-10B981?style=flat-square)](https://ezybank.dhakabank.com.bd/ekyc/Home/Login) | **Instant account issuance** · Google Vision AI · eKYC |
-| 8 | [🏧 **IPDC Finance eKYC**](./projects/ipdc-finance-ekyc.md) | Assoc. SE | Jan 2020–Oct 2021 | [![🔗](https://img.shields.io/badge/🔗-Live-10B981?style=flat-square)](https://ipdc.com/) | OCR + NLP + Biometric · AWS S3 document storage |
-| 9 | [🏦 **Southeast Bank eKYC**](./projects/southeast-bank-ekyc.md) | Assoc. SE | Jan 2020–Oct 2021 | [![🔗](https://img.shields.io/badge/🔗-Live-10B981?style=flat-square)](https://www.southeastbank.com.bd/?page=seb_mobile_app) | Bangladesh Bank compliant · Face Matching + Liveness |
-| 10 | [🏛️ **Core Banking Modernisation**](./projects/core-banking-modernisation.md) | Assoc. SE | Jan 2020–Oct 2021 | [![🔗](https://img.shields.io/badge/🔗-Live-10B981?style=flat-square)](https://leads.com.bd/banking-solutions/core-banking-solution/) | 90+ pages · 100+ APIs · **50%+ perf** · 🏆 Award |
+| 6 | [🏦 **Dhaka Bank EZYBANK**](./projects/dhaka-bank-ezybank.md) | Assoc. SE | Jan 2020–Oct 2021 | [![🔗](https://img.shields.io/badge/🔗-Live-10B981?style=flat-square)](https://ezybank.dhakabank.com.bd/ekyc/Home/Login) | **Instant account issuance** · Google Vision AI · eKYC |
+| 7 | [🏧 **IPDC Finance eKYC**](./projects/ipdc-finance-ekyc.md) | Assoc. SE | Jan 2020–Oct 2021 | [![🔗](https://img.shields.io/badge/🔗-Live-10B981?style=flat-square)](https://ipdc.com/) | OCR + NLP + Biometric · AWS S3 document storage |
+| 8 | [🏦 **Southeast Bank eKYC**](./projects/southeast-bank-ekyc.md) | Assoc. SE | Jan 2020–Oct 2021 | [![🔗](https://img.shields.io/badge/🔗-Live-10B981?style=flat-square)](https://www.southeastbank.com.bd/?page=seb_mobile_app) | Bangladesh Bank compliant · Face Matching + Liveness |
+| 9 | [🏛️ **Core Banking Modernisation**](./projects/core-banking-modernisation.md) | Assoc. SE | Jan 2020–Oct 2021 | [![🔗](https://img.shields.io/badge/🔗-Live-10B981?style=flat-square)](https://leads.com.bd/banking-solutions/core-banking-solution/) | 90+ pages · 100+ APIs · **50%+ perf** · 🏆 Award |
 
 ---
 
@@ -534,9 +533,9 @@ Research focused on **human pose estimation** — combining segmentation algorit
 
 | # | Project | Role | Period | Live | Key Result |
 |---|---------|------|--------|------|-----------|
-| 11 | [👟 **Apex Footwear**](./projects/apex-footwear.md) | Assoc. SE | Nov 2021–Jul 2022 | [![🔗](https://img.shields.io/badge/🔗-Live-10B981?style=flat-square)](https://www.apex4u.com/) | **100K+ weekly visitors** · Facebook Shop · Knawat API |
-| 12 | [🛒 **Shwapno**](./projects/shwapno-retail.md) | Assoc. SE | Nov 2021–Jul 2022 | [![🔗](https://img.shields.io/badge/🔗-Live-10B981?style=flat-square)](https://www.shwapno.com/) | **10K+ concurrent users** · AWS Auto Scaling · Redis |
-| 13 | [👗 **Sailor Clothing**](./projects/sailor-clothing.md) | Assoc. SE | Nov 2021–Jul 2022 | [![🔗](https://img.shields.io/badge/🔗-Live-10B981?style=flat-square)](https://www.sailor.clothing/) | Knawat dropshipping · Facebook Shop · Custom plugins |
+| 10 | [👟 **Apex Footwear**](./projects/apex-footwear.md) | Assoc. SE | Nov 2021–Jul 2022 | [![🔗](https://img.shields.io/badge/🔗-Live-10B981?style=flat-square)](https://www.apex4u.com/) | **100K+ weekly visitors** · Facebook Shop · Knawat API |
+| 11 | [🛒 **Shwapno**](./projects/shwapno-retail.md) | Assoc. SE | Nov 2021–Jul 2022 | [![🔗](https://img.shields.io/badge/🔗-Live-10B981?style=flat-square)](https://www.shwapno.com/) | **10K+ concurrent users** · AWS Auto Scaling · Redis |
+| 12 | [👗 **Sailor Clothing**](./projects/sailor-clothing.md) | Assoc. SE | Nov 2021–Jul 2022 | [![🔗](https://img.shields.io/badge/🔗-Live-10B981?style=flat-square)](https://www.sailor.clothing/) | Knawat dropshipping · Facebook Shop · Custom plugins |
 
 ---
 
@@ -544,8 +543,8 @@ Research focused on **human pose estimation** — combining segmentation algorit
 
 | # | Project | Institution | Year | Domain |
 |---|---------|------------|------|--------|
-| 14 | [🔬 **Computer Vision Research**](./projects/computer-vision-research.md) | AIUB | 2019–2020 | Human Pose Estimation · Segmentation + Recognition hybrid pipeline |
-| 15 | [🧠 **Data Mining & ML**](./projects/data-mining-ml.md) | AIUB | 2019–2020 | Heart Disease Classifier (supervised) · Breakfast Suggester (K-Means) |
+| 13 | [🔬 **Computer Vision Research**](./projects/computer-vision-research.md) | AIUB | 2019–2020 | Human Pose Estimation · Segmentation + Recognition hybrid pipeline |
+| 14 | [🧠 **Data Mining & ML**](./projects/data-mining-ml.md) | AIUB | 2019–2020 | Heart Disease Classifier (supervised) · Breakfast Suggester (K-Means) |
 
 ---
 
